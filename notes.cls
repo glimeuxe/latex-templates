@@ -7,4 +7,4 @@
 \newtheorem{definition}{Definition}
 \newtheorem{theorem}{Theorem}
 \newtheorem{proposition}{Proposition}
-\newtheorem{proposition}{Corollary}
+\newtheorem{corollary}{Corollary}
